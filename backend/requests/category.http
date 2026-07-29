@@ -1,0 +1,8 @@
+### Invalid Category Test
+
+POST http://localhost:5000/api/categories
+Content-Type: application/json
+
+{
+    "name":""
+}

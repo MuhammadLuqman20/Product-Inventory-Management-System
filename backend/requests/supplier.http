@@ -1,0 +1,11 @@
+### Invalid Supplier
+
+POST http://localhost:5000/api/suppliers
+Content-Type: application/json
+
+{
+    "name":"",
+    "contactEmail":"abc",
+    "phone":"",
+    "address":""
+}
