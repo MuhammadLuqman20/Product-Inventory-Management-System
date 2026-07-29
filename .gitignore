@@ -1,0 +1,15 @@
+# Root repository ignores
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
+backend/logs/
+backend/*.log
+frontend/*.log
+backend/.env
+backend/.env.test
+backend/.git-backup
+frontend/.git-backup
+.vscode/
+.DS_Store
+Thumbs.db
+
