@@ -157,7 +157,6 @@ backend
 ├── package.json
 ├── package-lock.json
 ├── API_DOCUMENTATION.md
-└── README.md
 ```
 
 ---
