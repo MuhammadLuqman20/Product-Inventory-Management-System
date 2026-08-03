@@ -362,7 +362,3 @@ Implemented:
 - Input sanitization through validation
 
 ---
-
-# License
-
-This project is available for educational and development purposes.
